@@ -22,6 +22,8 @@
 > - Major: **Mathematics**
 
 ---
+
+
 ## Class Project 
 
 [Paper Trails](https://paper-trails.herokuapp.com/)
