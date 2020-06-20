@@ -20,6 +20,7 @@
 > - High School Diploma
 > - GPA: **9.2/10**
 > - Major: **Mathematics**
+
 ---
 ## Class Project 
 
